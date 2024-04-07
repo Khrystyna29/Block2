@@ -1,0 +1,110 @@
+{
+  "testName": "Тест по WEB дизайну",
+  "questions": [
+    {
+      "question": "Яка столиця України?",
+      "answers": [
+        {
+          "answer": "Київ",
+          "isCorrect": true
+        },
+        {
+          "answer": "Львів",
+          "isCorrect": false
+        },
+        {
+          "answer": "Одеса",
+          "isCorrect": false
+        },
+        {
+          "answer": "Харків",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Яке найбільше озеро в Україні?",
+      "answers": [
+        {
+          "answer": "Чорне море",
+          "isCorrect": false
+        },
+        {
+          "answer": "Азовське море",
+          "isCorrect": false
+        },
+        {
+          "answer": "Озеро Ялпуг",
+          "isCorrect": false
+        },
+        {
+          "answer": "Озеро Сиваш",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "question": "Яка найвища гора в Україні?",
+      "answers": [
+        {
+          "answer": "Говерла",
+          "isCorrect": true
+        },
+        {
+          "answer": "Піп Іван",
+          "isCorrect": false
+        },
+        {
+          "answer": "Роман-Кош",
+          "isCorrect": false
+        },
+        {
+          "answer": "Петрос",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Яка найдовша річка в Україні?",
+      "answers": [
+        {
+          "answer": "Дніпро",
+          "isCorrect": true
+        },
+        {
+          "answer": "Південний Буг",
+          "isCorrect": false
+        },
+        {
+          "answer": "Дністер",
+          "isCorrect": false
+        },
+        {
+          "answer": "Сіверський Донець",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "question": "Який національний птах України?",
+      "answers": [
+        {
+          "answer": "Лелека білий",
+          "isCorrect": true
+        },
+        {
+          "answer": "Соловейко",
+          "isCorrect": false
+        },
+        {
+          "answer": "Журавель сірий",
+          "isCorrect": false
+        },
+        {
+          "answer": "Яструб тетерев'ятник",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

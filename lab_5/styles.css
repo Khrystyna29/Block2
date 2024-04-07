@@ -1,0 +1,16 @@
+.question {
+  margin-bottom: 1rem;
+}
+
+.answer {
+  margin-bottom: 0.5rem;
+}
+
+/* styles.css */
+
+/* Стилі для неправильних відповідей */
+.wrong-answer {
+  text-decoration: line-through;
+  color: red;
+}
+
